@@ -11,7 +11,7 @@ int main()
     cout <<"Olahraga push-up membakar 200 kalori setiap 30 menit." endl;
     cout <<"Olahraga plank membakar 5 kalori selama 1 menit." << endl;
 
-    cout << "Penghitung Pembakaran Jumlah Kalori\n\n";
+    cout << "\nPenghitung Pembakaran Jumlah Kalori\n\n";
     cout << "Melakukan Olahraga lari sebanyak : ";
     cin >> lari;
     cout << "Melakukan Olahraga push up sebanyak : ";
