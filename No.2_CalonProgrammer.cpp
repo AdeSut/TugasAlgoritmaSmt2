@@ -16,6 +16,10 @@ int main() {
 
     cout << "Nilai tes coding : ";
     cin >> nilai;
+        while (nilai > limit) {
+        cout << "Nilai melebihi 100 \nSilahkan input ulang : ";
+        cin >> nilai;
+    }
 
     cout << "Nilai interview  : ";
     cin >> grade;
