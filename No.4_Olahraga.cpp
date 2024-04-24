@@ -6,7 +6,10 @@ int main()
 {
     int lari,lari2, pushup, pushup2, plank, plank2, waktu, total;
 
-
+    cout <<"Keterangan : " << endl;
+    cout <<"Olahraga lari membakar 60 kalori setiap 5 menit." << endl;
+    cout <<"Olahraga push-up membakar 200 kalori setiap 30 menit." endl;
+    cout <<"Olahraga plank membakar 5 kalori selama 1 menit." << endl;
 
     cout << "Penghitung Pembakaran Jumlah Kalori\n\n";
     cout << "Melakukan Olahraga lari sebanyak : ";
